@@ -39,7 +39,7 @@
                 <a href="https://skillicons.dev">
                     <img src="https://skillicons.dev/icons?i=nodejs,express" /><br/>
                     <img src="https://skillicons.dev/icons?i=prisma,php" /><br/>
-                    <img src="https://skillicons.dev/icons? />
+                    <img src="https://skillicons.dev/icons?=" />
                 </a>
             </td>
             <td>
