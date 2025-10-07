@@ -110,7 +110,65 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a>
 </p>
+### Languages and Tools 🌱🔭
 
+<div align="center">
+    <table>
+        <tr>
+            <td align="center"><b>Front End</b></td>
+            <td align="center"><b>Back End</b></td>
+            <td align="center"><b>DevOps</b></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=js,ts,nextjs" /><br/>
+                    <img src="https://skillicons.dev/icons?i=react,vite,figma" /><br/>
+                    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,markdown" />
+                </a>
+            </td>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=nodejs,express,bun" /><br/>
+                    <img src="https://skillicons.dev/icons?i=java,spring,hibernate" /><br/>
+                    <img src="https://skillicons.dev/icons?i=cs,dotnet," />
+                </a>
+            </td>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=docker,git,bitbucket" /><br/>
+                    <img src="https://skillicons.dev/icons?i=notion,github," />
+                </a>
+            </td>
+        </tr>
+        <tr>
+            <td align="center"><b>Database</b></td>
+            <td align="center"><b>Other Languages</b></td>
+            <td align="center"><b>Tools</b></td>
+        </tr>
+        <tr>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /><br/>
+                    <img src="https://skillicons.dev/icons?i=mysql,redis," />
+                </a>
+            </td>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=python,go,cs" /><br/>
+                </a>
+            </td>
+            <td>
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=matlab,vscode,postman" /><br/>
+                    <img src="https://skillicons.dev/icons?i=webstorm,pycharm" /><br/>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<hr>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrSHIHAB1&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
